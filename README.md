@@ -58,7 +58,7 @@ Este gráfico resume a distribuição do pH, mostrando a mediana, os quartis e p
 1.  **Clone o repositório:**
     ```bash
     # No console digite:
-    git clone [https://github.com/jphneves/PythonAtividadeRemota.git](https://github.com/jphneves/PythonAtividadeRemota.git)
+    git clone https://github.com/jphneves/PythonAtividadeRemota.git
 
     # Entre na pasta baixada:
     cd PythonAtividadeRemota
@@ -88,7 +88,7 @@ Este gráfico resume a distribuição do pH, mostrando a mediana, os quartis e p
 
 ## 👨‍💻 Autores
 
-Projeto desenvolvido com ❤️ por:
+Projeto desenvolvido por:
 
 * **João Pedro H Neves**
 * **Davi Fiori**
