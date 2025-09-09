@@ -3,8 +3,6 @@
 ![Python](https://img.shields.io/badge/python-3.10+-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 
-> Repositório dedicado à Atividade Remota da disciplina de Python, com foco em análise de dados, visualização e consumo de APIs.
-
 Este projeto acadêmico aplica conceitos fundamentais de Python para resolver dois problemas principais:
 1.  **Análise Estatística Pura:** Implementação de funções estatísticas do zero.
 2.  **Análise de Dados de Vinhos:** Análise e visualização de um dataset sobre a qualidade de vinhos.
