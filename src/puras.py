@@ -47,7 +47,7 @@ coluna_alcool = []
 indice_da_coluna = 10
 
 try:
-    with open('wine_quality.csv', 'r') as arquivo_csv:
+    with open('../csv/wine_quality.csv', 'r') as arquivo_csv:
         leitor = csv.reader(arquivo_csv)
 
         next(leitor)

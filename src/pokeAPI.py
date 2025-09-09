@@ -8,7 +8,7 @@ def baixar_e_processar_pokemon(pokemon_id):
     e salva em um arquivo CSV.
     """
     url = f"https://pokeapi.co/api/v2/pokemon/{pokemon_id}"
-    nome_arquivo_csv = 'game_index_pokemon.csv'
+    nome_arquivo_csv = '../csv/game_index_pokemon.csv'
 
     print(f"Buscando dados para o Pokémon ID: '{pokemon_id}'...")
 
