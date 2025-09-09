@@ -12,9 +12,8 @@ plt.ylabel('Frequência')
 plt.grid(True)
 plt.savefig('../imgs/histograma_alcool.png')
 
-
 plt.figure(figsize=(10, 6))
-sns.boxplot(x='quality', y='pH', data=df, hue='quality', palette='Set2', showfliers=False, legend=False)
+sns.boxplot(x='quality', y='pH', data=df, palette='Set2', hue='quality', legend=False)
 plt.title('Boxplot de pH Segmentado por Qualidade do Vinho')
 plt.xlabel('Qualidade')
 plt.ylabel('pH')
