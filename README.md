@@ -44,12 +44,12 @@ Parte fundamental do projeto foi gerar visualizações para entender melhor o da
 ### Histograma do Teor Alcoólico
 Este gráfico mostra a frequência de diferentes níveis de álcool nos vinhos analisados.
 
-![Histograma do Teor Alcoólico](histograma_alcool.png)
+![Histograma do Teor Alcoólico](https://github.com/jphneves/PythonAtividadeRemota/blob/main/imgs/histograma_alcool.png)
 
 ### Boxplot do pH
 Este gráfico resume a distribuição do pH, mostrando a mediana, os quartis e possíveis outliers.
 
-![Boxplot do pH](boxplot_ph.png)
+![Boxplot do pH](https://github.com/jphneves/PythonAtividadeRemota/blob/main/imgs/boxplot_ph.png)
 
 ---
 
